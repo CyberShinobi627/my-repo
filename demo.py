@@ -1,8 +1,8 @@
 age = int(input("Enter your age: "))
 
 if age < 0:
-    print("invalid age")
+    print("Invalid age")
 elif 0 < age < 18:
-    print("not adult")
+    print("Not adult")
 else:
-    print("adult")
+    print("Adult")
