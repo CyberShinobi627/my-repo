@@ -1,2 +1,4 @@
-/style.css
-/dir1/
+*
+!.gitignore
+!/dir1/
+!/demo.py
