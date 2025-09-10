@@ -1,4 +1,5 @@
 *
 !.gitignore
-!/dir1/
+!/dir1/hello.html
 !/demo.py
+!README.md
